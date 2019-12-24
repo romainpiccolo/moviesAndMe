@@ -1,4 +1,4 @@
-package com.moviesandme2;
+package com.moviesAndMe;
 
 import android.app.Application;
 import android.content.Context;

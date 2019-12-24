@@ -1,4 +1,4 @@
-package com.moviesandme2;
+package com.moviesAndMe;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "moviesAndMe2";
+    return "moviesAndMe";
   }
 }

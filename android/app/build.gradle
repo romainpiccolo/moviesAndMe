@@ -128,7 +128,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.moviesandme2"
+        applicationId "com.moviesAndMe"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

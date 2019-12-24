@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "moviesAndMe2-tvOS.app"
-               BlueprintName = "moviesAndMe2-tvOS"
-               ReferencedContainer = "container:moviesAndMe2.xcodeproj">
+               BuildableName = "moviesAndMe-tvOS.app"
+               BlueprintName = "moviesAndMe-tvOS"
+               ReferencedContainer = "container:moviesAndMe.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "moviesAndMe2-tvOSTests.xctest"
-               BlueprintName = "moviesAndMe2-tvOSTests"
-               ReferencedContainer = "container:moviesAndMe2.xcodeproj">
+               BuildableName = "moviesAndMe-tvOSTests.xctest"
+               BlueprintName = "moviesAndMe-tvOSTests"
+               ReferencedContainer = "container:moviesAndMe.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "moviesAndMe2-tvOSTests.xctest"
-               BlueprintName = "moviesAndMe2-tvOSTests"
-               ReferencedContainer = "container:moviesAndMe2.xcodeproj">
+               BuildableName = "moviesAndMe-tvOSTests.xctest"
+               BlueprintName = "moviesAndMe-tvOSTests"
+               ReferencedContainer = "container:moviesAndMe.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "moviesAndMe2-tvOS.app"
-            BlueprintName = "moviesAndMe2-tvOS"
-            ReferencedContainer = "container:moviesAndMe2.xcodeproj">
+            BuildableName = "moviesAndMe-tvOS.app"
+            BlueprintName = "moviesAndMe-tvOS"
+            ReferencedContainer = "container:moviesAndMe.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "moviesAndMe2-tvOS.app"
-            BlueprintName = "moviesAndMe2-tvOS"
-            ReferencedContainer = "container:moviesAndMe2.xcodeproj">
+            BuildableName = "moviesAndMe-tvOS.app"
+            BlueprintName = "moviesAndMe-tvOS"
+            ReferencedContainer = "container:moviesAndMe.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "moviesAndMe2-tvOS.app"
-            BlueprintName = "moviesAndMe2-tvOS"
-            ReferencedContainer = "container:moviesAndMe2.xcodeproj">
+            BuildableName = "moviesAndMe-tvOS.app"
+            BlueprintName = "moviesAndMe-tvOS"
+            ReferencedContainer = "container:moviesAndMe.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
